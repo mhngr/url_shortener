@@ -1,2 +1,2 @@
 def url_shortener(long_url):
-    return '1111111'
+    return str(hash(long_url))[:10]

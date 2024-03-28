@@ -1,1 +1,1 @@
-from .url import UrlSerializer
+from .url import UrlSerializer, UrlSerializerV2
